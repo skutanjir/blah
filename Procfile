@@ -1,1 +1,1 @@
-worker: node . --session 'nazedev.data.json'
+worker: node . --session 'nazedev.json'
